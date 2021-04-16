@@ -1,6 +1,5 @@
-<p align="left"><img src="https://i.imgur.com/A6bWGFl.gif"/>  
-       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EZevan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>   
+<p align="left"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>    
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EZevan&layout=compact" />
 
 - 👋 Hi, I’m @EZevan
 <!--- 👀 I’m interested in Coding
