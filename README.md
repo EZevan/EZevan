@@ -13,5 +13,5 @@ You can click the Preview link to take a look at your changes.
 ---> 
 
 
-![Evan's Github stats](https://github-readme-stats.vercel.app/api?username=EZevan&show_icons=true)
+![Evan's Github stats](https://github-readme-stats.vercel.app/api?username=EZevan&show_icons=true@theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EZevan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
