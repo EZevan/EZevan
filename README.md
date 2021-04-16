@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 ---> 
 
 
-![Evan's Github stats](https://github-readme-stats.vercel.app/api?username=EZevan&show_icons=true&theme=onedark)   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EZevan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!---![Evan's Github stats](https://github-readme-stats.vercel.app/api?username=EZevan&show_icons=true&theme=onedark)--->   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EZevan&layout=compact@theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
