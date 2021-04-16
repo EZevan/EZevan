@@ -1,5 +1,6 @@
 <p align="left"><img src="https://i.imgur.com/A6bWGFl.gif"/>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EZevan&layout=compact" /></p>    
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=EZevan&show_icons=true&hide_border=true" />
+</p>    
 
 - 👋 Hi, I’m @EZevan
 <!--- 👀 I’m interested in Coding
@@ -19,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=EZevan&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EZevan&layout=compact" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
