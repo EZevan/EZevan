@@ -1,5 +1,4 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>   
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${username})
 
 - 👋 Hi, I’m @EZevan
 <!--- 👀 I’m interested in Coding
