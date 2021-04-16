@@ -11,25 +11,15 @@ EZevan/EZevan is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-         ,-----------------------,          ,"--------,"|
-       ,"                      ,"|        ,"        ,"  |
-      +-----------------------+  |      ,"        ,"    |
-      |  .-----------------.  |  |     +---------+      |
-      |  |                 |  |  |     | -==----'|      |
-      |  |  I LOVE DOS!    |  |  |     |         |      |
-      |  |  Bad command or |  |  |/----|`---=    |      |
-      |  |  C:\>_          |  |  |   ,/|==== ooo |      ;
-      |  |                 |  |  |  // |(((( [33]|    ,"
-      |  `-----------------'  |," .;'| |((((     |  ,"
-      +-----------------------+  ;;  | |         |,"
-         /_)______________(_/  //'   | +---------+
-    ___________________________/___  `,
-   /  oooooooooooooooo  .o.  oooo /,   \,"-----------
-  / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
- /_==__==========__==_ooo__ooo=_/'   /___________,"
+                 .-~~~~~~~~~-._       _.-~~~~~~~~~-.
+             __.'              ~.   .~              `.__
+           .'//                  \./                  \\`.
+         .'//                     |                     \\`.
+       .'// .-~"""""""~~~~-._     |     _,-~~~~"""""""~-. \\`.
+     .'//.-"                 `-.  |  .-'                 "-.\\`.
+   .'//______.============-..   \ | /   ..-============.______\\`.
+ .'______________________________\|/______________________________`.  
 
 
-
-
-![Evan's Github stats](https://github-readme-stats.vercel.app/api?username=EZevan&show_icons=true&theme=radical)
+![Evan's Github stats](https://github-readme-stats.vercel.app/api?username=EZevan&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EZevan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
