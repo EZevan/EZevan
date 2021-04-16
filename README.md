@@ -17,13 +17,12 @@ You can click the Preview link to take a look at your changes.
 <!---![Evan's Github stats](https://github-readme-stats.vercel.app/api?username=EZevan&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EZevan&layout=compact@theme=dark)](https://github.com/anuraghazra/github-readme-stats)--->
 
-
+<br/>    
+<br/>  
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EZevan&layout=compact" />
-
-<br/>    
-<br/>   
+ 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
