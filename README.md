@@ -1,5 +1,5 @@
-<p align="left"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>    
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EZevan&layout=compact" />
+<p align="left"><img src="https://i.imgur.com/A6bWGFl.gif"/>
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EZevan&layout=compact" /></p>    
 
 - 👋 Hi, I’m @EZevan
 <!--- 👀 I’m interested in Coding
