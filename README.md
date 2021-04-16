@@ -19,6 +19,8 @@ You can click the Preview link to take a look at your changes.
 
 
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C#-192133?style=flat-square&logo=csharp&logoColor=white) 
+![Csharp](https://img.shields.io/badge/-Csharp-192133?style=flat-square&logo=csharp&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
 ![VS](https://img.shields.io/badge/-visual-studio-192133?style=flat-square&logo=visual-studio&logoColor=white)
 ![Rider](https://img.shields.io/badge/-Rider-192133?style=flat-square&logo=Rider&logoColor=white)
+
